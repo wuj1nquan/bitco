@@ -1,5 +1,5 @@
 # bitco
-bitco is a simple coroutine library which fits those who want to learn easily 
+bitco is a streamlined and comprehensive coroutine library, suitable for those who want to learn but find it difficult
 
 C语言实现**精简版**协程库
 
