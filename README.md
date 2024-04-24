@@ -1,6 +1,8 @@
 # bitco
 bitco is a streamlined and comprehensive coroutine library, suitable for those who want to learn but find it difficult
+anthor have organized and annotated all the interfaces and reproduced the coroutine library. Each function has detailed comments
 
+# 简介
 C语言实现**精简版**协程库
 
 **主要参考**https://github.com/wangbojing/NtyCo/tree/master/core
