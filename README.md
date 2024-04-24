@@ -1,11 +1,11 @@
 # bitco
 bitco is a simple coroutine library which fits those who want to learn easily 
 
-C语言实现精简版协程库
+C语言实现**精简版**协程库
 
-主要参考https://github.com/wangbojing/NtyCo/tree/master/core
+**主要参考**https://github.com/wangbojing/NtyCo/tree/master/core
 
-个人对所有接口进行了**梳理注释**并重现该协程库
+个人对**所有接口**进行了**梳理注释**并重现该协程库
 
 **每个函数都有详细的注释**
 
