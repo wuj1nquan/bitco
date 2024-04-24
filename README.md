@@ -11,6 +11,8 @@ C语言实现**精简版**协程库
 
 希望能帮助到和我一样**想要学习协程但无从下手**的朋友
 
+推荐学习顺序：hook.c --> coroutine.h --> coroutine.c --> epoll.c --> schedule.c --> sample_server + sample_client
+
 欢迎指正！
 
 
